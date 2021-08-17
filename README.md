@@ -1,1 +1,1 @@
-# crash_course_linear_regression
+# Crash Course Linear Regression
